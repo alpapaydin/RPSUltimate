@@ -10,7 +10,7 @@ The game consists of 2 game modes to either continuosly duel an NPC and conclude
 
 Have fun.
 
-<video src='https://streamable.com/hnb433' width=180/>
+https://streamable.com/hnb433
 Video shows the overly dynamic main menu (its better in game)
 
 https://streamable.com/3alt8o
